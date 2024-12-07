@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal Virulkar</h1>
-<h3 align="center">I am a passionate full-stack developer from India, skilled in creating impactful apps and seamless user experiences. With expertise in **Java**, **Python**, **C++**, and **Android development**, I thrive on solving real-world problems through technology.</h3>
+<h3 align="center">I am a passionate full-stack developer from India, skilled in creating impactful apps and seamless user experiences. With expertise in Java, Python, C++, and Android development, I thrive on solving real-world problems through technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalvirulkar&label=Profile%20views&color=0e75b6&style=flat" alt="kushalvirulkar" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Shopping-xxxxApp](https://play.google.com/apps/internaltest/4700361892184356792)
 
-- 🌱 I’m currently learning **I’m currently learning advanced backend development, data analytics, and exploring new technologies in Android and web development to enhance my skills and stay updated with the latest trends.**
+- 🌱 I’m currently learning I’m currently learning advanced backend development, data analytics, and exploring new technologies in Android and web development to enhance my skills and stay updated with the latest trends.
 
 - 👯 I’m looking to collaborate on [N/A](N/A)
 
@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KushalVirulkar](https://github.com/KushalVirulkar)
 
-- 💬 Ask me about **Android apps, Java, Python, C++, or creating impactful and user-friendly applications. I’m always ready to share my knowledge and experience!**
+- 💬 Ask me about Android apps, Java, Python, C++, or creating impactful and user-friendly applications. I’m always ready to share my knowledge and experience!
 
-- 📫 How to reach me **kushalvirulkar2@gmail.com**
+- 📫 How to reach me kushalvirulkar2@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15oDVPONjmVZ-z1NxIXheJTlEJG0wqSjl/view](https://drive.google.com/file/d/15oDVPONjmVZ-z1NxIXheJTlEJG0wqSjl/view)
 
-- ⚡ Fun fact **I can spend hours debugging code, but whenever I solve a tough problem, it always feels like I've cracked a puzzle!😄**
+- ⚡ Fun fact I can spend hours debugging code, but whenever I solve a tough problem, it always feels like I've cracked a puzzle!😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
